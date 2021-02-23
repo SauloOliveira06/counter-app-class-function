@@ -29,7 +29,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### Usando Class Super props
+### Usando Class Super
 
 ![c_class](https://user-images.githubusercontent.com/19229171/108874737-d611ba00-75d2-11eb-8714-217c50405f95.jpg)
 

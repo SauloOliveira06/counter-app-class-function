@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+## Counter App Class vs Function
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -35,4 +35,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### Usando Fcuntion Hooks
 
-
+![f_function](https://user-images.githubusercontent.com/19229171/108875008-225cfa00-75d3-11eb-86c9-c4341d51e033.jpg)
